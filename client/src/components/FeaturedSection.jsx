@@ -1,5 +1,5 @@
 import React from 'react'
-import Title from './title'
+import Title from './Title'
 import CarCard from './CarCard'
 import { assets } from '../assets/assets'
 import { useNavigate } from 'react-router-dom'
